@@ -1,6 +1,6 @@
 # Data cleansing with Pandas
 
-Andrzej Kocielski
+Andrzej Kocielski  
 Created on 23.08.2022
 
 Based on article by Carsten Sandtner at:  
